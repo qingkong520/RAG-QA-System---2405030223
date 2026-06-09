@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+chromadb
+pypdf2
+python-docx
+tiktoken
+sentence-transformers
+pyinstaller
